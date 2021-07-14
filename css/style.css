@@ -1,3 +1,86 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
+.banner-container{
+    background-color: #292929;
+}
+
+.banner-column{
+    background-color: #C1C1C1;
+}
+
+.navbar-container{
+    top: 0;
+    background-color: #C1C1C1;
+    position: sticky;
+    z-index: 2;
+
+}
+
+.about-container{
+    background-color: #01999A;
+}
+
+.education-container{
+    background-color: #DCDADC;
+}
+
+.bg-redtype{
+    background-color: #f35151;
+}
+.bg-redtype-color{
+    color: #f35151;
+}
+
+.bg-redtype:hover{
+   color: black!important;
+}
+
+.circle{
+    background-color: #f35151;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.project-container{
+    background-color: #01999A;
+}
+
+.form-container{
+    background-color: #383C4A;
+}
+
+.inner-form{
+    background-color: #363A47;
+}
+.footer{
+    background-color: #01999A;
+}
+
+.circle-icon{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;   
+}
+
+.circle-icon:hover{
+    background-color: #363A47;
+}
+.fa-facebook{
+    text-decoration: none;
+    color: #01999A;
+}
+.fa-github{
+    text-decoration: none;
+    color: #01999A;
+}
+.fa-youtube{
+    text-decoration: none;
+    color: #01999A;
+}
